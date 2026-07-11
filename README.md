@@ -32,11 +32,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Languages & Tools
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=miximagee99&show_icons=true&theme=tokyonight" alt="Mix's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miximagee99&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
 <!--
 **miximagee99/miximagee99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
